@@ -1,0 +1,14 @@
+{
+  "mcp.servers": {
+    "microbit-mcp": {
+      "command": "venv/Scripts/python.exe",
+      "args": ["src/main.py"]
+    }
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": true,
+    "markdown": true
+  }
+}
