@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ### 3. micro:bit 설정
 
-#### 3-1. micro:bit에 예시시 코드 업로드
+#### 3-1. micro:bit에 예시 코드 업로드
 
 **`example/smile.py`**
 
